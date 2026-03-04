@@ -1,8 +1,8 @@
 YAML
 
---
+---
 layout:default
---
+---
 
 ## Welcome 
 
