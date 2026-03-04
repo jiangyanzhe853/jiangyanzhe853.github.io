@@ -1,5 +1,4 @@
-layout: default
-title: Home
+YAML
 
 ## Welcome 
 
