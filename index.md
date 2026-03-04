@@ -1,7 +1,7 @@
 YAML
 
 ---
-layout:default
+layout: default
 ---
 
 ## Welcome 
