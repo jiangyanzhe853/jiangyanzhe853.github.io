@@ -1,9 +1,3 @@
-YAML
-
----
-layout: default
----
-
 ## Welcome 
 
 My name is Yanzhe,Jiang. 
